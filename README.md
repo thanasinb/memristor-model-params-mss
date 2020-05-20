@@ -1,11 +1,11 @@
 # memristor-model-params-mss
-|Device|t_c|G_A (mS)|G_B (mS)|V_A (V)|V_B (V)|phi|N|alpha_f|beta_f|alpha_r|beta_r|ref|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|Ag-chalc|0.32|8.7|0.91|0.17|0.22|1|1000|-|-|-|-|[1,22]|
-|W-Ag-chalc|e-4|2.125|0.67|0.27|0.37|1|N/A|-|-|-|-|[21]|
-|AIST|0.15|40|10|0.23|0.25|1|N/A|-|-|-|-|[19,22]|
-|GST|0.42|0.12|1.2|0.90|0.60|0.7|N/A|5e-3|3.0|5e-3|3.0|[20,22]|
-|WOx|0.80|0.025|0.004|0.80|1.00|0.55|N/A|e-9|0.85|22e-9|6.2|[8,22]|
+|Device|t_c|G_A (mS)|G_B (mS)|V_A (V)|V_B (V)|phi|N|alpha_f|beta_f|alpha_r|beta_r|test_V (V)|test_f (Hz)|ref|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|Ag-chalc|0.32|8.7|0.91|0.17|0.22|1|1000|-|-|-|-|0.25|100|[1,22]|
+|W-Ag-chalc|e-4|2.125|0.67|0.27|0.37|1|N/A|-|-|-|-|0.50|500|[21]|
+|AIST|0.15|40|10|0.23|0.25|1|N/A|-|-|-|-|N/A|N/A|[19,22]|
+|GST|0.42|0.12|1.2|0.90|0.60|0.7|N/A|5e-3|3.0|5e-3|3.0|N/A|N/A|[20,22]|
+|WOx|0.80|0.025|0.004|0.80|1.00|0.55|N/A|e-9|0.85|22e-9|6.2|N/A|N/A|[8,22]|
 
 ## references
 1\. Oblea AS, Timilsina A, Moore D, Campbell KA(2010) Silverchalcogenide based memristor devices. In: Proc. 2010 IEEE International Joint Conference on Neural Networks (IJCNN). pp. 1–3. <br><br>
