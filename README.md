@@ -14,3 +14,4 @@
 20\. Li Y, Zhong Y, Xu L, Zhang J, Xu X, et al. (2013) Ultrafast synaptic events in a chalcogenide memristor. Scientific Reports 3 doi:10.1038/srep01619. <br><br>
 21\.  T. W. Molter and M. A. Nugent, "The Generalized Metastable Switch Memristor Model," in CNNA 2016; 15th International Workshop on Cellular Nanoscale Networks and their Applications, 23-25 Aug. 2016 2016, pp. 1-2. <br><br>
 22\. https://knowm.org/the-generalized-metastable-switch-memristor-model/
+23\. https://github.com/knowm/memristor-models-4-all/tree/master/Knowm
